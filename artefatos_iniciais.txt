@@ -1,0 +1,2 @@
+Este é o primeiro artefato do projeto de software.
+Usado para demonstrar o uso de repositórios em ferramentas de gestão de configuração.
